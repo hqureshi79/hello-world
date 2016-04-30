@@ -1,2 +1,5 @@
 # hello-world
-My journey
+
+My journey.
+
+Yo, 'sup.
